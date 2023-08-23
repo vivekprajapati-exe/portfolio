@@ -194,6 +194,7 @@ html, body{
 }
 #about img{
     width: 200px;
+    border-radius: 50%;
 }
 #textabout{
     width: 25rem;
